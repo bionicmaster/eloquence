@@ -1,5 +1,5 @@
 {
-    "name": "sofa/eloquence",
+    "name": "bionicmaster/eloquence",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "sofa/hookable": "5.5.*",
+        "bionicmaster/hookable": "5.5.*",
         "illuminate/database": "5.4.*|5.5.*"
     },
     "require-dev": {
