@@ -26,7 +26,7 @@
         "php": ">=7.0.0",
         "sofa/eloquence-base": "5.5.*",
         "sofa/eloquence-metable": "5.5.*",
-        "sofa/eloquence-mutable": "5.5.*",
+        "bionicmaster/eloquence-mutable": "5.5.*",
         "sofa/eloquence-mappable": "5.5.*",
         "sofa/eloquence-validable": "5.5.*"
     },
