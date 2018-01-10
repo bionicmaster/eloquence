@@ -35,14 +35,6 @@
         "squizlabs/php_codesniffer": "2.3.3",
         "mockery/mockery": "0.9.4"
     },
-    "autoload": {
-        "psr-4": {
-            "Sofa\\Eloquence\\": "src"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
-    },
     "autoload-dev": {
         "psr-4": {
             "Sofa\\Eloquence\\Tests\\": "tests"
